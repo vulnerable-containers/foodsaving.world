@@ -1,4 +1,4 @@
-FROM php:8.2.7
+FROM php:8.2.35
 
 RUN <<EOF
 apt-get update
